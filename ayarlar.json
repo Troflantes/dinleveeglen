@@ -1,11 +1,10 @@
-{
-	"sahip": "SAHİP & CLİENT ID",
-	"ad": "İHSAN BAKİ DOĞAN #İBD",
-	"botadi": "Dinle ve Eglen",
-	"davet": "Botunuzun Davet Linki",
-	"botserverlink": "Botunuzun Destek Sunucusunun Kalıcı Davet Linki",
-	"owner": "OWNER ID",
-	"prefix": "dve!",
-	"surum": "0.0.1",
-	"token": "MUHTEŞEM TOKENINIZ"
-}
+{  
+   "prefix": "s!" ,
+   "TOKEN": "NDQ5ODE0NzEyMDI1MDg4MDEw.DghFYA.Td6wd10B3JjFzXPnkP8gvDj_k3Q",
+   "PREFIX" : "s!", 
+   "GOOGLE_API_KEY" : "AIzaSyB1g54eujTsOj1eHILth6DENPuiOAqSQVI",
+   "sahip": "419936204117770241" ,
+   "sahip2": "432956416949485568" ,
+   "token" : "NDQ5ODE0NzEyMDI1MDg4MDEw.DghFYA.Td6wd10B3JjFzXPnkP8gvDj_k3Q"
+    }
+
